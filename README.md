@@ -14,10 +14,6 @@ A complete data analytics project that forecasts stock prices using Python's tim
 - Power BI (Data modeling, visuals)
 - GitHub (Project hosting)
 
-## 📊 Dashboard Preview
-
-(DASHBOARD.png)
-
 ## 🔮 Forecast Sample
 Latest forecasted price: ₹232.90  
 Average RMSE: 5.78
